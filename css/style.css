@@ -159,6 +159,55 @@ header div a {
 }
 /* / sezione 2 */
 
+/* sezione finale */
+.sezione-finale {
+    position: relative;
+    display: inline-block;
+}
+.sezione-finale h2 {
+    font-size: 50px;
+    color: #23272A;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 150px;
+}
+
+.sezione-finale p {
+    font-size: 22px;
+    color: #23272A;;
+    text-align: center;
+}
+
+.sezione-finale img {
+    width: 65%;
+    margin-left: 350px;
+    
+}
+
+.sezione-finale h3 {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #23272A;
+}
+
+#star {
+    position: relative;
+    top: 20px;
+    left: 275px;
+    width: 35%;
+    
+}
+
+.sezione-finale a {
+    position: absolute;
+    left: 800px;
+    background-color: #8EA1E1;
+    color: white;
+    padding: 0 30px;;
+}
+/* / sezione finale */
+
 
 
 

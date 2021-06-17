@@ -18,7 +18,7 @@ header {
 }
 
 #logo-start {
-    margin: 0 275px;
+    margin: 0 270px;
 }
 
 nav ul {
@@ -47,7 +47,7 @@ nav ul li a {
 #login {
     width: 80px;
     height: 40px;
-    margin: 0 275px;
+    margin: 0 270px;
     background-color: white;
     border-radius: 25px;
 }
@@ -102,8 +102,34 @@ header div a {
 .open {
     width: 370px;
     height: 60px;
-    background-color: rgb(41, 41, 41);
+    background-color: #23272A;
     color: white;
 }
 /* / header */
 
+/* main */
+/* sezione 1 */
+.sezione-1 {
+    width: 100%;
+    height: 620px;
+    display: inline-block;
+}
+
+
+.sezione-1 img {
+    float: left;
+    margin: 150px 150px 200px 300px;
+}
+
+.sezione-1 span h2 {
+    font-size: 50px;
+    margin-top: 180px;
+    margin-bottom: 30px;
+    color: #23272A;
+}
+
+.sezione-1 span p {
+    font-size: 22px;
+    color: #23272A;;
+}
+/* / sezione 1 */

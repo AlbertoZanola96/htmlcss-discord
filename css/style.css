@@ -259,3 +259,22 @@ footer .special-2 {
     color: white;
 }
 
+table tr th {
+    color: #8EA1E1;
+    padding: 0 50px 10px 50px;
+    font-size: 20px;
+}
+
+table tr td {
+    color: white;
+    padding: 0 50px;
+    text-align: center;
+    padding: 0 50px 10px 50px;
+    font-size: 20px;
+}
+
+.tab {
+    position: absolute;
+    top: 105px;
+    left: 700px;
+}

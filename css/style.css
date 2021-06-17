@@ -208,6 +208,54 @@ header div a {
 }
 /* / sezione finale */
 
+/* footer */
+footer {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 620px;
+    margin-top: 200px;
+    background-color: #23272A;
+}
 
+#footer-lefth {
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}
 
+footer h3 {
+    color: #8EA1E1;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+footer img {
+    width: 10%;
+
+}
+
+footer .special-1 {
+    position: absolute;
+    right: 205px;
+    top: 120px;
+    color: white;
+}
+
+footer .special-2 {
+    position: absolute;
+    right: 195px;
+    top: 121px;
+    color: white;
+    font-size: 10px;
+}
+
+.social i {
+    position: relative;
+    top: 260px;
+    left: 240px;
+    font-size: 20px;
+    margin: 0 12px;
+    color: white;
+}
 
